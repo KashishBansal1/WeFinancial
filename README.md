@@ -1,4 +1,5 @@
 # WeFinancial
+URL: https://wefinancial-ffb80.web.app/
 
 WeFinancial is a one stop solution for all the women out there, to gain financial knowledge. Being financially literate and independent is very important nowadays. We provide all the knowledge and training required to become economically literate.
 
@@ -12,6 +13,7 @@ TECHNOLOGIES USED:
 - Frontend - HTML, CSS, JavaScript, Bootstrap
 - Backend - Node JS
 - Database - Firebase
+- Hosting - Firebase
 
 
 STEPS TO SETUP AND RUN THE PROJECT:
